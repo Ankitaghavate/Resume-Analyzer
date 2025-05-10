@@ -51,11 +51,8 @@ The dataset contains resumes with the following columns:
    git clone <repository_url>
    cd resume-screening
 
-2. Install dependencies:
+2. Install dependencies & Run the script:
   
  ```bash
    pip install -r requirements.txt
-
-3. Run the script:
-```bash
    python resume_classifier.py
