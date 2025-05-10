@@ -43,6 +43,8 @@ The dataset contains resumes with the following columns:
 - Pandas
 - Scikit-learn
 - Natural Language Processing (TF-IDF)
+  
+## Live Demo:- https://huggingface.co/spaces/ghavateankita/Resume-Analyzer
 
 ## 🚀 How to Run
 
